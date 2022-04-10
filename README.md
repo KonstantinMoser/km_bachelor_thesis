@@ -3,9 +3,9 @@ This git repository contains the dataset and the written code of the Bachelor th
 
 File List:<br />
 
-b8_27_eb_b8_a5_9e: Dataset Modeling the behaviour of the Raspberry Pi as a cvs file <br />
-Linux.MulDrop.14_altered: Altered version of the Linux.MulDrop.14 trojan as a shell script <br />
-Cryptojacker_Model_Creation: Jupyter Notebook to create the ML models <br /><br />
+Raspi_Dataset: Dataset Modeling the behaviour of the Raspberry Pi as a cvs file <br />
+cryptojacker.txt: Altered version of the Linux.MulDrop.14 trojan as a shell script <br />
+ML_Model_Creation: Jupyter Notebook to create the ML models <br /><br />
 
 **Machine Learning Models**<br />
 To create the models, all the code in *ML_Model_Creation.ipynb* has to be executed. Therefore, the Jupyter Notebook has to be started as a Google Collab Notebook. Insert the file into Google Drive, and Google Collab will automatically start upon executing the file.
